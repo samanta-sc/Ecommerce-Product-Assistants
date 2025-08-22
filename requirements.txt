@@ -1,0 +1,15 @@
+langchain-astradb
+langchain 
+groq
+langchain-groq
+langchain_google_genai
+datasets
+pypdf
+python-dotenv
+certifi
+fastapi
+python-multipart
+uvicorn
+langsmith
+
+-e .
