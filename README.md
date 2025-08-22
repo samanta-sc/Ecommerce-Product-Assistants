@@ -15,6 +15,10 @@ The Ecommerce Chatbot is built using Python and FastAPI framework. It leverages 
 - Ability to handle various user inquiries such as product availability, pricing, shipping information, etc.
 - CI/CD added using github action via aws ec2 instances, containerized via docker, FastAPI
 
+## Dataset Curation
+- Flipcart Product Data is translated into Bengali Language using Gemini API
+- Translated data is merged with original
+
 ## Installation
 
 To set up the Ecommerce Chatbot locally, follow these steps:
