@@ -1,6 +1,7 @@
 # Ecommerce Chatbot
 
 Welcome to the Ecommerce Chatbot project! This chatbot is designed to assist users with their online shopping experience by providing product recommendations, answering questions, and assisting with various inquiries related to the ecommerce store on bilingual(English + Bengali).
+![Ecommerce chatbot](https://github.com/samanta-sc/Ecommerce-Product-Assistants/blob/main/resources/Chatbot.gif)
 
 ## Overview
 
