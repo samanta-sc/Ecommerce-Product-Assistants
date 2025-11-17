@@ -52,10 +52,15 @@ docker run -d -p 5000:5000 fastapi-ecommbot
 
 ## 📸 Demo
 
-<img align="left" src="resources/Screenshot (11).png">
-
----
-
-<img align="left" src="resources/Screenshot (32).png">
-
----
+<table>
+  <tr>
+    <!-- <td>Chatbot API</td> -->
+     <td>English Query</td>
+     <td>Bengali Query</td>
+  </tr>
+  <tr>
+    <!-- <td><img align="left" src="resources/Screenshot (10).png" width=290 height=480></td> -->
+    <td><img align="left" src="resources/Screenshot (11).png"></td>
+    <td><img align="left" src="resources/Screenshot (12).png"></td>
+  </tr>
+ </table>
